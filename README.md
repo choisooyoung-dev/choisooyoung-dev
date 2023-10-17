@@ -1,4 +1,4 @@
-### Hi there 👋
+### 최수영 개발 기록 👋
 
 <!--
 **choisooyoung-dev/choisooyoung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
