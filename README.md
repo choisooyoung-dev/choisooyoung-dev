@@ -1,9 +1,7 @@
 ## 최수영 개발 기록 👋
 
-<hr />
-
-### 🐱 깃헙 [깃헙주소](https://github.com/choisooyoung-dev)
-### ✍️ 블로그 [블로그주소](https://velog.io/@choisooyoung-dev)
+### 🐱 깃헙 https://github.com/choisooyoung-dev
+### ✍️ 블로그 https://velog.io/@choisooyoung-dev
 <!--
 **choisooyoung-dev/choisooyoung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
