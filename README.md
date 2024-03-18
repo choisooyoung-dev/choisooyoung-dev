@@ -10,7 +10,7 @@
 
 ### Skills
 
-### ⚡ Back - end
+⚡ Back - end
 
 <div dir="auto">
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 
-### ⚡ Database
+⚡ Database
 
 <div dir="auto">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 </div>
 
-### ⚡ DevOps
+⚡ DevOps
 
 <div dir="auto">
     <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">
 </div>
 
-### ⚡ 협업툴
+⚡ 협업툴
 
 <div dir="auto">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
