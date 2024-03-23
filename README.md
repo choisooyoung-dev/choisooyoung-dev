@@ -3,7 +3,7 @@
 #### 🐱 깃헙 https://github.com/choisooyoung-dev
 #### ✍️ 블로그 https://velog.io/@choisooyoung-dev
 
-### Projects
+### Main Projects
 
 - 실시간 스트리밍, 채팅 서비스    <a href="https://github.com/choisooyoung-dev/la-it">[🔗 Github link]</a>
 - 트랜잭션과 동시성 처리 적용 공연 예매 서비스    <a href="https://github.com/choisooyoung-dev/sooterpark">[🔗 Github link]</a>
