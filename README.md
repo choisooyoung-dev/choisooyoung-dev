@@ -1,7 +1,7 @@
 ## Sooyoung Choi, Backend developer 👋
 
 #### 🐱 깃헙 https://github.com/choisooyoung-dev
-#### ✍️ 블로그 https://velog.io/@choisooyoung-dev
+#### ✍️ 블로그 https://velog.io/@choisooyoung-dev](https://soo-devlog.tistory.com
 
 
 <!--
