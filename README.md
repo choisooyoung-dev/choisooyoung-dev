@@ -4,9 +4,8 @@
 #### ✍️ 블로그 https://soo-devlog.tistory.com
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/choisooyoung-dev?pet-id=661768633651010912" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/choisooyoung-dev" width="300" />
 </a>
-
 
 <!--
 **choisooyoung-dev/choisooyoung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
