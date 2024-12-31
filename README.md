@@ -3,6 +3,10 @@
 #### 🐱 깃헙 https://github.com/choisooyoung-dev
 #### ✍️ 블로그 https://soo-devlog.tistory.com
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/choisooyoung-dev"/>
+</a>
+
 
 <!--
 **choisooyoung-dev/choisooyoung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
