@@ -4,7 +4,7 @@
 #### ✍️ 블로그 https://soo-devlog.tistory.com
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/choisooyoung-dev" width="300" />
+  <img src="https://render.gitanimals.org/farms/choisooyoung-dev" />
 </a>
 
 <!--
