@@ -5,9 +5,9 @@
 ####
 ####
 
-<a href="https://github.com/devxb/gitanimals">
-<!--   <img src="https://render.gitanimals.org/lines/choisooyoung-dev?pet-id=1" width="1000" height="120"/> -->
-   <img src="https://render.gitanimals.org/farms/choisooyoung-dev" />
+<a href="https://github.com/choisooyoung-dev/gitanimals">
+  <img src="https://render.gitanimals.org/lines/choisooyoung-dev?pet-id=2" width="1000" height="120"/>
+<!--    <img src="https://render.gitanimals.org/farms/choisooyoung-dev" /> -->
 </a>
 
 <!--
