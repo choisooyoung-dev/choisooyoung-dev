@@ -1,9 +1,11 @@
 ## Sooyoung Choi, Backend developer 👋
 
+<!-- 
 #### 🐱 깃헙 https://github.com/choisooyoung-dev
 #### ✍️ 블로그 https://soo-devlog.tistory.com
 ####
 ####
+-->
 
 <a href="https://github.com/choisooyoung-dev/gitanimals">
   <img src="https://render.gitanimals.org/lines/choisooyoung-dev?pet-id=661768633651010919" width="1000" height="120"/>
